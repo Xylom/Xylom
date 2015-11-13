@@ -1,0 +1,102 @@
+
+header {
+	background:#2c3e50;
+	color:#fff; 
+}
+
+body{
+	background-image:url("../imagen/back.png");
+	background-repeat:repeat-y;
+	background-size:100%;
+	height: 100%; 
+  	margin: 0; 
+  	padding: 0; 
+  	 
+	
+}
+
+.main{
+	background:#f2f2f2; 
+}
+
+.color1, .color2, .color3, .color4, .color5, .color6, .color7, .color8, .color9 {
+	background:#4CAF50; blue   -------------34495e
+	color:#fff;  
+}
+
+
+aside {
+	background:#03AF8F;
+	color:#fff;  
+}
+
+footer, .ft{
+	background:#3E3F3A;
+	color:#fff;
+	width: 100%;
+    position:relative;
+    bottom:0;
+    left: 0;
+    
+   
+}
+
+.glyphicon-cog {
+	font-size:20px;
+	 
+}
+
+.clep{
+	font-size:25px; 
+}
+
+.btn-group {
+	width:100%;
+	height:160px;
+
+}
+
+.img{
+	display:block;
+	margin:0 auto 0 auto;
+	width:100%;
+	max-width:80px; 
+}
+
+.center-block{
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+}
+
+
+.send{
+	
+}
+
+.boton{
+	width:100%;	
+	position:relative;   
+
+}
+td, th{
+	text-align:center;
+}
+
+.exp{
+	width:100%;	
+	position:relative; 
+
+
+}
+
+.icono-accion{
+	font-size:20px;
+}
+
+.label{
+	text-align:right;	
+	color:#5F5B51;
+	font-size:10px;
+	
+}
