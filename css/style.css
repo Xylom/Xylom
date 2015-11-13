@@ -1,14 +1,16 @@
-* {
+ * {
   margin: 0;
   padding: 0;
 }
 
 header {
+	height:80px;
 	background:#2c3e50;
 	color:#fff; 
 }
 
 body{
+	font-color:#eff4ff;
 	background-image:url("../imagen/back.png");
 	background-repeat:repeat-y;
 	background-size:100%;
@@ -28,27 +30,14 @@ footer, .ft{
 	background:#2c3e50;
 	color:#fff;
 	width: 100%;
-	height:30px;
-    position:absolute;
+	height:80px;
+    position:relative:;
     bottom:0;
-    left: 0;
-   
+    left:0;
+	
  }
 
-.glyphicon-cog {
-	font-size:20px;
-	 
-}
 
-.clep{
-	font-size:25px; 
-}
-
-.btn-group {
-	width:100%;
-	height:160px;
-
-}
 
 .img{
 	display:block;
@@ -57,40 +46,26 @@ footer, .ft{
 	max-width:80px; 
 }
 
-.center-block{
-	display: block;
- 	margin-left: auto;
-  	margin-right: auto;
-}
 
+.div{
+	
 
-.send{
+	color:#eff4ff;
+	width:100%;
+	height:50px;
+	padding:20px; 
+	background:#1d1d1d;
+	text-align:center;
+	
+	
 	
 }
 
-.boton{
-	width:100%;	
-	position:relative;   
-
-}
-td, th{
+.btn{
+	width:100%;
+	height:50px;
+	margin:0 auto;
+	background:#f2f2f2;
 	text-align:center;
 }
 
-.exp{
-	width:100%;	
-	position:relative; 
-
-
-}
-
-.icono-accion{
-	font-size:20px;
-}
-
-.label{
-	text-align:right;	
-	color:#5F5B51;
-	font-size:10px;
-	
-}
