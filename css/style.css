@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
 header {
 	background:#2c3e50;
@@ -19,27 +23,17 @@ body{
 	background:#f2f2f2; 
 }
 
-.color1, .color2, .color3, .color4, .color5, .color6, .color7, .color8, .color9 {
-	background:#4CAF50; blue   -------------34495e
-	color:#fff;  
-}
-
-
-aside {
-	background:#03AF8F;
-	color:#fff;  
-}
 
 footer, .ft{
-	background:#3E3F3A;
+	background:#2c3e50;
 	color:#fff;
 	width: 100%;
-    position:relative;
+	height:30px;
+    position:absolute;
     bottom:0;
     left: 0;
-    
    
-}
+ }
 
 .glyphicon-cog {
 	font-size:20px;
