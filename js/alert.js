@@ -1,3 +1,3 @@
-function(){
-	window.alert("Login De Usuario");
+function alerta(){
+	window.alert("Login De Usuario")
 }
